@@ -1,6 +1,6 @@
 import random
 import tkinter as tk
-
+#number puzzel.
 # Function to create a shuffled game board
 def create_board():
     numbers = list(range(1, 9))
